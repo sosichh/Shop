@@ -1,0 +1,16 @@
+[ {
+  "id" : 1,
+  "name" : "Michael",
+  "active" : true,
+  "products" : [ ]
+}, {
+  "id" : 2,
+  "name" : "Maria",
+  "active" : true,
+  "products" : [ ]
+}, {
+  "id" : 3,
+  "name" : "Lion",
+  "active" : true,
+  "products" : [ ]
+} ]
