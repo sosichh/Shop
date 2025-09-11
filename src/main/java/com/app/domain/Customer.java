@@ -35,6 +35,10 @@ public class Customer {
         this.active = active;
     }
 
+    public List<Product> getProducts() {
+        return products;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (o == null || getClass() != o.getClass()) return false;
